@@ -1,0 +1,47 @@
+,Daop,Nama_Daop,Pemilik,Jenis,Koordinat_X,Koordinat_Y
+0,DAOP 1 JAKARTA,Depo Lokomotif Jatinegara,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-6.214245,106.867028
+1,DAOP 1 JAKARTA,Depo Kereta Jakarta Kota,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.134634,106.823285
+2,DAOP 1 JAKARTA,Depo Gerbong Jakarta Gudang,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.133301,106.818028
+3,DAOP 1 JAKARTA,Depo Kereta Rangkas Bitung,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.352703,106.253297
+7,DAOP 2 BANDUNG,Depo Lokomotif Bandung,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-6.91339,107.599592
+8,DAOP 2 BANDUNG,Depo Kereta / KRD Bandung,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.913966,107.594613
+9,DAOP 3 CIREBON,Depo Lokomotif Cirebon,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-6.703374,108.55419
+10,DAOP 3 CIREBON,Depo Kereta Cirebon,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.706306,108.55527
+11,DAOP 4 SEMARANG,Depo Lokomotif Semarang Poncol,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-6.972914,110.414699
+12,DAOP 4 SEMARANG,Depo Kereta Semarang Poncol,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-6.973328,110.413516
+13,DAOP 4 SEMARANG,Depo Kereta Cepu,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.155828,111.588028
+15,DAOP 5 PURWOKERTO,Depo Lokomotif Purwokerto,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.417357,109.221008
+16,DAOP 5 PURWOKERTO,Depo Kereta Purwokerto,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.417307,109.221189
+17,DAOP 5 PURWOKERTO,Depo Kereta Kutoarjo,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.726462,109.909499
+18,DAOP 5 PURWOKERTO,Depo Gerbong Maos,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.618823,109.138499
+21,DAOP 6 YOGYAKARTA,Depo Lokomotif Yogyakarta,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.788405,110.361065
+22,DAOP 6 YOGYAKARTA,Depo Kereta Yogyakarta,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.789831,110.37488
+23,DAOP 6 YOGYAKARTA,Depo Lokomotif Solo,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.557355,110.815163
+24,DAOP 6 YOGYAKARTA,Depo Kereta Solo,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.557186,110.814977
+26,DAOP 7 MADIUN,Depo Lokomotif Madiun,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.618389,111.522891
+27,DAOP 7 MADIUN,Depo Kereta Madiun,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.618022,111.528362
+29,DAOP 8 SURABAYA,Depo Lokomotif Sidotopo,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.234179,112.754733
+30,DAOP 8 SURABAYA,Depo Kereta / KRD Sidotopo,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.236162,112.755821
+31,DAOP 8 SURABAYA,Depo Kereta Surabaya Pasar Turi,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.250548,112.728394
+32,DAOP 8 SURABAYA,Depo Kereta Surabaya Gubeng,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.265427,112.752277
+33,DAOP 8 SURABAYA,Depo Lokomotif Malang,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-7.977818,112.637403
+34,DAOP 8 SURABAYA,Depo Kereta Malang,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.974572,112.63735
+35,DAOP 8 SURABAYA,Depo Gerbong Sidotopo,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-7.234679,112.75712
+36,DAOP 9 JEMBER,Depo Lokomotif Jember,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-8.163915,113.702765
+37,DAOP 9 JEMBER,Depo Kereta Banyuwangi,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-8.137884,114.39705
+38,DIVRE I SUMATERA UTARA,Depo Lokomotif Medan,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,3.593173,98.679209
+39,DIVRE I SUMATERA UTARA,Depo Kereta Medan,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,3.593173,98.679209
+42,DIVRE II SUMATERA BARAT,Depo Lokomotif Padang,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-0.943109,100.3731
+43,DIVRE II SUMATERA BARAT,Depo Kereta Padang ,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-0.94122,100.37309
+44,DIVRE III SUMATERA SELATAN,Depo Lokomotif Kertapati,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-3.022551,104.74742
+45,DIVRE III SUMATERA SELATAN,Depo Kereta Kertapati,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-3.019455,104.75009
+46,DIVRE III SUMATERA SELATAN,Depo Gerbong Kertapati,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-3.021862,104.74684
+48,DIVRE III SUMATERA SELATAN,Depo Gerbong Tanjung Enim Baru,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-3.707716,103.798637
+50,PT KAI COMMUTER JABOTABEK,Depo KRL Bukit Duri,PT Kereta Commuter Indonesia,Depo Sarana Penggerak,-6.217738,106.861169
+51,PT KAI COMMUTER JABOTABEK,Depo KRL Depok,Ditjen Perkeretaapian,Depo Sarana Penggerak,-6.416477,106.811902
+52,PT KAI COMMUTER JABOTABEK,Depo KRL Bogor,PT Kereta Commuter Indonesia,Depo Sarana Penggerak,-6.591201,106.791453
+54,DIVRE IV LAMPUNG,Depo Lokomotif Tarahan,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-5.503102,105.336337
+55,DIVRE IV LAMPUNG,Depo Kereta Tanjung Karang,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-5.406307,105.261059
+57,DIVRE IV LAMPUNG,Depo Kereta Rejosari,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-5.29323,105.18722
+58,DIVRE IV LAMPUNG,Depo Gerbong Rejosari,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak,-5.294167,105.187778
+59,DIVRE IV LAMPUNG,Depo Lokomotif Tanjung Karang,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak,-5.406307,105.261059
