@@ -1,0 +1,71 @@
+,ID,Daop,Nama_Depo,Pemilik,Jenis
+0,14,DAOP 1 JAKARTA,DEPO LOKOMOTIF THB,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+1,15,DAOP 1 JAKARTA,DEPO LOKOMOTIF CPN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+2,16,DAOP 1 JAKARTA,DEPO KERETA JAKK,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+3,19,DAOP 1 JAKARTA,DEPO GERBONG JAKG,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+4,57,DAOP 1 JAKARTA,DEPO KERETA RK,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+5,67,DAOP 1 JAKARTA,DEPO KERETA JAKRI,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+6,72,DAOP 1 JAKARTA,DEPO KRL MANGGARAI,PT Kereta Commuter Indonesia,Depo Sarana Penggerak
+7,79,DAOP 1 JAKARTA,DEPO MEKANIK KARAWANG,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+8,20,DAOP 2 BANDUNG,DEPO LOKOMOTIF BD,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+9,21,DAOP 2 BANDUNG,DEPO KERETA BD,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+10,22,DAOP 3 CIREBON,DEPO LOKOMOTIF CN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+11,23,DAOP 3 CIREBON,DEPO KERETA CN,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+12,24,DAOP 4 SEMARANG,DEPO LOKOMOTIF SMC,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+13,25,DAOP 4 SEMARANG,DEPO KERETA SMC,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+14,60,DAOP 4 SEMARANG,DEPO KERETA CEPU,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+15,69,DAOP 4 SEMARANG,DEPO LOKOMOTIF TEGAL,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+16,26,DAOP 5 PURWOKERTO,DEPO LOKOMOTIF PWT,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+17,27,DAOP 5 PURWOKERTO,DEPO KERETA PWT,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+18,63,DAOP 5 PURWOKERTO,DEPO KERETA KTA,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+19,65,DAOP 5 PURWOKERTO,DEPO GERBONG MA,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+20,70,DAOP 5 PURWOKERTO,DEPO LOKOMOTIF CILACAP,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+21,80,DAOP 5 PURWOKERTO,DEPO MEKANIK KROYA,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+22,28,DAOP 6 YOGYAKARTA,DEPO LOKOMOTIF YK,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+23,29,DAOP 6 YOGYAKARTA,DEPO KERETA YK,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+24,30,DAOP 6 YOGYAKARTA,DEPO LOKOMOTIF SLO,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+25,31,DAOP 6 YOGYAKARTA,DEPO KERETA SLO,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+26,73,DAOP 6 YOGYAKARTA,DEPO MEKANIK PURWOSARI,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+27,32,DAOP 7 MADIUN,DEPO LOKOMOTIF MN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+28,33,DAOP 7 MADIUN,DEPO KERETA BL,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+29,81,DAOP 7 MADIUN,DEPO MEKANIK MN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+30,34,DAOP 8 SURABAYA,DEPO LOKOMOTIF SDT,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+31,35,DAOP 8 SURABAYA,DEPO KERETA SDT,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+32,36,DAOP 8 SURABAYA,DEPO KERETA SBI,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+33,37,DAOP 8 SURABAYA,DEPO KERETA SURABAYA GUBENG,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+34,38,DAOP 8 SURABAYA,DEPO LOKOMOTIF ML,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+35,39,DAOP 8 SURABAYA,DEPO KERETA ML,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+36,64,DAOP 8 SURABAYA,DEPO GERBONG SDT,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+37,40,DAOP 9 JEMBER,DEPO LOKOMOTIF JR,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+38,41,DAOP 9 JEMBER,DEPO KERETA BW,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+39,43,DIVRE I SUMATERA UTARA,DEPO LOKOMOTIF MDN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+40,44,DIVRE I SUMATERA UTARA,DEPO KERETA MDN,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+41,61,DIVRE I SUMATERA UTARA,DEPO KRD MDN,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+42,62,DIVRE I SUMATERA UTARA,DEPO KERETA ACEH,Ditjen Perkeretaapian,Depo Sarana Tanpa Penggerak
+43,45,DIVRE II SUMATERA BARAT,DEPO LOKOMOTIF PD,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+44,46,DIVRE II SUMATERA BARAT,DEPO KERETA PD,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+45,49,DIVRE III SUMATERA SELATAN,DEPO LOKOMOTIF KPT,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+46,50,DIVRE III SUMATERA SELATAN,DEPO KERETA KPT,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+47,51,DIVRE III SUMATERA SELATAN,DEPO GERBONG KPT,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+48,55,DIVRE III SUMATERA SELATAN,DEPO LOKOMOTIF TANJUNG ENIM BARU,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+49,56,DIVRE III SUMATERA SELATAN,DEPO GERBONG TANJUNG ENIM BARU,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+50,77,DIVRE III SUMATERA SELATAN,DEPO LRT JAKABARING,Ditjen Perkeretaapian,Depo Sarana Penggerak
+51,17,PT KAI COMMUTER JABOTABEK,DEPO KRL BUKITDURI,PT Kereta Commuter Indonesia,Depo Sarana Penggerak
+52,18,PT KAI COMMUTER JABOTABEK,DEPO KRL DEPOK,Ditjen Perkeretaapian,Depo Sarana Penggerak
+53,42,PT KAI COMMUTER JABOTABEK,DEPO KRL BOGOR,PT Kereta Commuter Indonesia,Depo Sarana Penggerak
+54,71,DITJEN PERKERETAAPIAN,BALAI PERAWATAN,Ditjen Perkeretaapian,Depo Sarana Penggerak
+55,47,DIVRE IV LAMPUNG,DEPO LOKOMOTIF THN,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+56,48,DIVRE IV LAMPUNG,DEPO KERETA TNK,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+57,52,DIVRE IV LAMPUNG,DEPO LOKOMOTIF RJS,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+58,53,DIVRE IV LAMPUNG,DEPO KERETA RJS,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+59,54,DIVRE IV LAMPUNG,DEPO GERBONG RJS,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+60,66,DIVRE IV LAMPUNG,DEPO LOKOMOTIF TNK,PT Kereta Api Indonesia (Persero),Depo Sarana Penggerak
+61,68,DIVRE IV LAMPUNG,DEPO GERBONG THN,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+62,74,PROV DKI JAKARTA,DEPO MRT LEBAKBULUS,PT MRT Jakarta,Depo Sarana Penggerak
+63,76,PROV DKI JAKARTA,DEPO LRT KELAPAGADING,PT LRT Jakarta,Depo Sarana Penggerak
+64,78,PROV DKI JAKARTA,DEPO APMS BANDARASOETTA,PT Angkasa Pura II,Depo Sarana Penggerak
+65,79,DAOP 3 CIREBON,DEPO GERBONG AWN,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+66,80,DAOP 6 YOGYAKARTA,DEPO GERBONG RWL,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+67,81,DIVRE II SUMATERA BARAT,DEPO GERBONG BKP,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+68,82,DIVRE III SUMATERA SELATAN,DEPO GERBONG SIG,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
+69,83,DIVRE III SUMATERA SELATAN,DEPO GERBONG MRL,PT Kereta Api Indonesia (Persero),Depo Sarana Tanpa Penggerak
