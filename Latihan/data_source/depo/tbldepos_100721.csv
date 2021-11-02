@@ -1,68 +1,68 @@
-"14","7","Depo Lokomotif Tanah Abang","2","Depo Sarana Penggerak",NULL,"-6.184171","106.810808",NULL,NULL
-"15","7","Depo Lokomotif Cipinang","2","Depo Sarana Penggerak",NULL,"-6.2143538","106.8807024",NULL,NULL
-"16","7","Depo Kereta JakartaKota","2","Depo Sarana Tanpa Penggerak",NULL,"-6.134634","106.823285",NULL,NULL
-"17","24","Depo KRL BukitDuri","3","Depo Sarana Penggerak",NULL,"-6.217738","106.861169",NULL,NULL
-"18","24","Depo KRL Depok","1","Depo Sarana Penggerak",NULL,"-6.416477","106.811902",NULL,NULL
-"19","7","Depo Gerbong JakartaGudang","2","Depo Sarana Tanpa Penggerak",NULL,"-6.133301","106.818028",NULL,NULL
-"20","8","Depo Lokomotif Bandung","2","Depo Sarana Penggerak",NULL,"-6.91339","107.599592",NULL,NULL
-"21","8","Depo Kereta Bandung","2","Depo Sarana Tanpa Penggerak",NULL,"-6.913966","107.594613",NULL,NULL
-"22","9","Depo Lokomotif Cirebon","2","Depo Sarana Penggerak",NULL,"-6.703374","108.55419",NULL,NULL
-"23","9","Depo Kereta Cirebon","2","Depo Sarana Tanpa Penggerak",NULL,"-6.706306","108.55527",NULL,NULL
-"24","10","Depo Lokomotif SemarangPoncol","2","Depo Sarana Penggerak",NULL,"-6.972914","110.414699",NULL,NULL
-"25","10","Depo Kereta Semarang Poncol","2","Depo Sarana Tanpa Penggerak",NULL,"-6.973328","110.413516",NULL,NULL
-"26","11","Depo Lokomotif Purwokerto","2","Depo Sarana Penggerak",NULL,"-7.417357","109.221008",NULL,NULL
-"27","11","Depo Kereta Purwokerto","2","Depo Sarana Tanpa Penggerak",NULL,"-7.417307","109.221189",NULL,NULL
-"28","12","Depo Lokomotif Yogyakarta","2","Depo Sarana Penggerak",NULL,"-7.788405","110.361065",NULL,NULL
-"29","12","Depo Kereta Yogyakarta","2","Depo Sarana Tanpa Penggerak",NULL,"-7.789831","110.37488",NULL,NULL
-"30","12","Depo Lokomotif Solo","2","Depo Sarana Penggerak",NULL,"-7.557355","110.815163",NULL,NULL
-"31","12","Depo Kereta Solo","2","Depo Sarana Tanpa Penggerak",NULL,"-7.557186","110.814977",NULL,NULL
-"32","13","Depo Lokomotif Madiun","2","Depo Sarana Penggerak",NULL,"-7.618389","111.522891",NULL,NULL
-"33","13","Depo Kereta Madiun","2","Depo Sarana Tanpa Penggerak",NULL,"-7.618022","111.528362",NULL,NULL
-"34","14","Depo Lokomotif Sidotopo","2","Depo Sarana Penggerak",NULL,"-7.234179","112.754733",NULL,NULL
-"35","14","Depo Kereta Sidotopo","2","Depo Sarana Tanpa Penggerak",NULL,"-7.236162","112.755821",NULL,NULL
-"36","14","Depo Kereta PasarTuri","2","Depo Sarana Tanpa Penggerak",NULL,"-7.250548","112.728394",NULL,NULL
-"37","14","Depo Kereta Surabaya Gubeng","2","Depo Sarana Tanpa Penggerak",NULL,"-7.265427","112.752277",NULL,NULL
-"38","14","Depo Lokomotif Malang","2","Depo Sarana Penggerak",NULL,"-7.977818","112.637403",NULL,NULL
-"39","14","Depo Kereta Malang","2","Depo Sarana Tanpa Penggerak",NULL,"-7.974572","112.63735",NULL,NULL
-"40","15","Depo Lokomotif Jember","2","Depo Sarana Penggerak",NULL,"-8.163915","113.702765",NULL,NULL
-"41","15","Depo Kereta Banyuwangi","2","Depo Sarana Tanpa Penggerak",NULL,"-8.137884","114.39705",NULL,NULL
-"42","24","Depo KRL Bogor","3","Depo Sarana Penggerak",NULL,"-6.591201","106.791453",NULL,NULL
-"43","16","Depo Lokomotif Medan","2","Depo Sarana Penggerak",NULL,"3.593173","98.679209",NULL,NULL
-"44","16","Depo Kereta Medan","2","Depo Sarana Tanpa Penggerak",NULL,"3.593173","98.679209",NULL,NULL
-"45","17","Depo Lokomotif Padang","2","Depo Sarana Penggerak",NULL,"-0.943109","100.3731",NULL,NULL
-"46","17","Depo Kereta Padang ","2","Depo Sarana Tanpa Penggerak",NULL,"-0.9417498261392313","100.37412787044121",NULL,NULL
-"47","26","Depo Lokomotif Tarahan","2","Depo Sarana Penggerak",NULL,"-5.503102","105.336337",NULL,NULL
-"48","26","Depo Kereta TanjungKarang","2","Depo Sarana Tanpa Penggerak",NULL,"-5.406307","105.261059",NULL,NULL
-"49","18","Depo Lokomotif Kertapati","2","Depo Sarana Penggerak",NULL,"-3.022551","104.74742",NULL,NULL
-"50","18","Depo Kereta Kertapati","2","Depo Sarana Tanpa Penggerak",NULL,"-3.019455","104.75009",NULL,NULL
-"51","18","Depo Gerbong Simpang","2","Depo Sarana Tanpa Penggerak",NULL,"-3.1049359","104.5593241",NULL,NULL
-"52","26","Depo Lokomotif Rejosari","2","Depo Sarana Penggerak",NULL,"-5.294167","105.187778",NULL,NULL
-"53","26","Depo Kereta Rejosari","2","Depo Sarana Tanpa Penggerak",NULL,"-5.29323","105.18722",NULL,NULL
-"54","26","Depo Gerbong Rejosari","2","Depo Sarana Tanpa Penggerak",NULL,"-5.294167","105.187778",NULL,NULL
-"55","18","Depo Lokomotif TanjungEnimBaru","2","Depo Sarana Penggerak",NULL,"-3.7088916","103.7957403",NULL,NULL
-"56","18","Depo Gerbong TanjungEnimBaru","2","Depo Sarana Tanpa Penggerak",NULL,"-3.707716","103.798637",NULL,NULL
-"57","7","Depo Kereta Rangkas Bitung","2","Depo Sarana Tanpa Penggerak",NULL,"-6.352703","106.253297",NULL,NULL
-"60","10","Depo Kereta Cepu","2","Depo Sarana Tanpa Penggerak",NULL,"-7.155828","111.588028",NULL,NULL
-"61","16","Depo KRD Medan","2","Depo Sarana Tanpa Penggerak",NULL,"3.5924908","98.6775835",NULL,NULL
-"62","16","Depo Kereta Aceh","1","Depo Sarana Tanpa Penggerak",NULL,"5.2599673","96.9635762",NULL,NULL
-"63","11","Depo Kereta Kutoarjo","2","Depo Sarana Tanpa Penggerak",NULL,"-7.726462","109.909499",NULL,NULL
-"64","14","Depo Gerbong Sidotopo","2","Depo Sarana Tanpa Penggerak",NULL,"-7.234679","112.75712",NULL,NULL
-"65","11","Depo Gerbong Maos","2","Depo Sarana Tanpa Penggerak",NULL,"-7.618823","109.138499",NULL,NULL
-"66","26","Depo Lokomotif TanjungKarang","2","Depo Sarana Penggerak",NULL,"-5.406307","105.261059",NULL,NULL
-"67","7","Depo Kereta JakartaManggarai","2","Depo Sarana Tanpa Penggerak",NULL,"-6.2120814","106.8468449",NULL,NULL
-"68","26","Depo Gerbong Tarahan","2","Depo Sarana Tanpa Penggerak",NULL,"-5.5023971","105.3332642",NULL,NULL
-"69","10","Depo Lokomotif Tegal","2","Depo Sarana Penggerak",NULL,"-6.860814","109.1417459",NULL,NULL
-"70","11","Depo Lokomotif Cilacap","2","Depo Sarana Penggerak",NULL,"-7.7385776","109.0048829",NULL,NULL
-"71","25","Balai Perawatan","1","Depo Sarana Penggerak",NULL,"-7.1434945","110.8975915",NULL,NULL
-"72","7","DEPO KRL MANGGARAI","3","Depo Sarana Penggerak",NULL,"-6.212741","106.850457",NULL,NULL
-"73","12","Depo Mekanik Purwosari","2","Depo Sarana Penggerak",NULL,"-7.5653656","110.7963212",NULL,NULL
-"74","27","Depo MRT Lebak Bulus","5","Depo Sarana Penggerak",NULL,"-6.2902569","106.7734616",NULL,NULL
-"76","27","Depo LRT KelapaGading","6","Depo Sarana Penggerak",NULL,"-6.1574688","106.9132671",NULL,NULL
-"77","18","Depo LRT Jakabaring","1","Depo Sarana Penggerak",NULL,"-3.0363655","104.7937302",NULL,NULL
-"78","27","Depo APMS Bandara Soetta","7","Depo Sarana Penggerak",NULL,"-6.1284818","106.6508189",NULL,NULL
-"79","7","Depo Mekanik Karawang","2","Depo Sarana Penggerak",NULL,"-6.3069754","107.3013244",NULL,NULL
-"80","11","Depo Mekanik Kroya","2","Depo Sarana Penggerak",NULL,"-7.6294241","109.1156554",NULL,NULL
-"81","13","Depo Mekanik Madiun","2","Depo Sarana Penggerak",NULL,"-7.6194095","111.5266891",NULL,NULL
-"82","9","Depo Gerbong Arjowinangun","2","Depo Sarana Tanpa Penggerak",NULL,"-6.6445403","108.4116918",NULL,NULL
-"83","12","Depo Gerbong Rowulu","2","Depo Sarana Tanpa Penggerak",NULL,"-7.7979191","110.2769801",NULL,NULL
-"84","17","Depo Gerbong BukitPutus","2","Depo Sarana Tanpa Penggerak",NULL,"-0.9863189020156738","100.38441128261302",NULL,NULL
+14;7;Depo Lokomotif Tanah Abang;2;Depo Sarana Penggerak;NULL;-6.184.171;106.810.808;NULL;NULL
+15;7;Depo Lokomotif Cipinang;2;Depo Sarana Penggerak;NULL;-62.143.538;1.068.807.024;NULL;NULL
+16;7;Depo Kereta JakartaKota;2;Depo Sarana Tanpa Penggerak;NULL;-6.134.634;106.823.285;NULL;NULL
+17;24;Depo KRL BukitDuri;3;Depo Sarana Penggerak;NULL;-6.217.738;106.861.169;NULL;NULL
+18;24;Depo KRL Depok;1;Depo Sarana Penggerak;NULL;-6.416.477;106.811.902;NULL;NULL
+19;7;Depo Gerbong JakartaGudang;2;Depo Sarana Tanpa Penggerak;NULL;-6.133.301;106.818.028;NULL;NULL
+20;8;Depo Lokomotif Bandung;2;Depo Sarana Penggerak;NULL;-691.339;107.599.592;NULL;NULL
+21;8;Depo Kereta Bandung;2;Depo Sarana Tanpa Penggerak;NULL;-6.913.966;107.594.613;NULL;NULL
+22;9;Depo Lokomotif Cirebon;2;Depo Sarana Penggerak;NULL;-6.703.374;10.855.419;NULL;NULL
+23;9;Depo Kereta Cirebon;2;Depo Sarana Tanpa Penggerak;NULL;-6.706.306;10.855.527;NULL;NULL
+24;10;Depo Lokomotif SemarangPoncol;2;Depo Sarana Penggerak;NULL;-6.972.914;110.414.699;NULL;NULL
+25;10;Depo Kereta Semarang Poncol;2;Depo Sarana Tanpa Penggerak;NULL;-6.973.328;110.413.516;NULL;NULL
+26;11;Depo Lokomotif Purwokerto;2;Depo Sarana Penggerak;NULL;-7.417.357;109.221.008;NULL;NULL
+27;11;Depo Kereta Purwokerto;2;Depo Sarana Tanpa Penggerak;NULL;-7.417.307;109.221.189;NULL;NULL
+28;12;Depo Lokomotif Yogyakarta;2;Depo Sarana Penggerak;NULL;-7.788.405;110.361.065;NULL;NULL
+29;12;Depo Kereta Yogyakarta;2;Depo Sarana Tanpa Penggerak;NULL;-7.789.831;11.037.488;NULL;NULL
+30;12;Depo Lokomotif Solo;2;Depo Sarana Penggerak;NULL;-7.557.355;110.815.163;NULL;NULL
+31;12;Depo Kereta Solo;2;Depo Sarana Tanpa Penggerak;NULL;-7.557.186;110.814.977;NULL;NULL
+32;13;Depo Lokomotif Madiun;2;Depo Sarana Penggerak;NULL;-7.618.389;111.522.891;NULL;NULL
+33;13;Depo Kereta Madiun;2;Depo Sarana Tanpa Penggerak;NULL;-7.618.022;111.528.362;NULL;NULL
+34;14;Depo Lokomotif Sidotopo;2;Depo Sarana Penggerak;NULL;-7.234.179;112.754.733;NULL;NULL
+35;14;Depo Kereta Sidotopo;2;Depo Sarana Tanpa Penggerak;NULL;-7.236.162;112.755.821;NULL;NULL
+36;14;Depo Kereta PasarTuri;2;Depo Sarana Tanpa Penggerak;NULL;-7.250.548;112.728.394;NULL;NULL
+37;14;Depo Kereta Surabaya Gubeng;2;Depo Sarana Tanpa Penggerak;NULL;-7.265.427;112.752.277;NULL;NULL
+38;14;Depo Lokomotif Malang;2;Depo Sarana Penggerak;NULL;-7.977.818;112.637.403;NULL;NULL
+39;14;Depo Kereta Malang;2;Depo Sarana Tanpa Penggerak;NULL;-7.974.572;11.263.735;NULL;NULL
+40;15;Depo Lokomotif Jember;2;Depo Sarana Penggerak;NULL;-8.163.915;113.702.765;NULL;NULL
+41;15;Depo Kereta Banyuwangi;2;Depo Sarana Tanpa Penggerak;NULL;-8.137.884;11.439.705;NULL;NULL
+42;24;Depo KRL Bogor;3;Depo Sarana Penggerak;NULL;-6.591.201;106.791.453;NULL;NULL
+43;16;Depo Lokomotif Medan;2;Depo Sarana Penggerak;NULL;3.593.173;98.679.209;NULL;NULL
+44;16;Depo Kereta Medan;2;Depo Sarana Tanpa Penggerak;NULL;3.593.173;98.679.209;NULL;NULL
+45;17;Depo Lokomotif Padang;2;Depo Sarana Penggerak;NULL;-0.943109;1.003.731;NULL;NULL
+46;17;Depo Kereta Padang ;2;Depo Sarana Tanpa Penggerak;NULL;-0.9417498261392313;10.037.412.787.044.100;NULL;NULL
+47;26;Depo Lokomotif Tarahan;2;Depo Sarana Penggerak;NULL;-5.503.102;105.336.337;NULL;NULL
+48;26;Depo Kereta TanjungKarang;2;Depo Sarana Tanpa Penggerak;NULL;-5.406.307;105.261.059;NULL;NULL
+49;18;Depo Lokomotif Kertapati;2;Depo Sarana Penggerak;NULL;-3.022.551;10.474.742;NULL;NULL
+50;18;Depo Kereta Kertapati;2;Depo Sarana Tanpa Penggerak;NULL;-3.019.455;10.475.009;NULL;NULL
+51;18;Depo Gerbong Simpang;2;Depo Sarana Tanpa Penggerak;NULL;-31.049.359;1.045.593.241;NULL;NULL
+52;26;Depo Lokomotif Rejosari;2;Depo Sarana Penggerak;NULL;-5.294.167;105.187.778;NULL;NULL
+53;26;Depo Kereta Rejosari;2;Depo Sarana Tanpa Penggerak;NULL;-529.323;10.518.722;NULL;NULL
+54;26;Depo Gerbong Rejosari;2;Depo Sarana Tanpa Penggerak;NULL;-5.294.167;105.187.778;NULL;NULL
+55;18;Depo Lokomotif TanjungEnimBaru;2;Depo Sarana Penggerak;NULL;-37.088.916;1.037.957.403;NULL;NULL
+56;18;Depo Gerbong TanjungEnimBaru;2;Depo Sarana Tanpa Penggerak;NULL;-3.707.716;103.798.637;NULL;NULL
+57;7;Depo Kereta Rangkas Bitung;2;Depo Sarana Tanpa Penggerak;NULL;-6.352.703;106.253.297;NULL;NULL
+60;10;Depo Kereta Cepu;2;Depo Sarana Tanpa Penggerak;NULL;-7.155.828;111.588.028;NULL;NULL
+61;16;Depo KRD Medan;2;Depo Sarana Tanpa Penggerak;NULL;35.924.908;986.775.835;NULL;NULL
+62;16;Depo Kereta Aceh;1;Depo Sarana Tanpa Penggerak;NULL;52.599.673;969.635.762;NULL;NULL
+63;11;Depo Kereta Kutoarjo;2;Depo Sarana Tanpa Penggerak;NULL;-7.726.462;109.909.499;NULL;NULL
+64;14;Depo Gerbong Sidotopo;2;Depo Sarana Tanpa Penggerak;NULL;-7.234.679;11.275.712;NULL;NULL
+65;11;Depo Gerbong Maos;2;Depo Sarana Tanpa Penggerak;NULL;-7.618.823;109.138.499;NULL;NULL
+66;26;Depo Lokomotif TanjungKarang;2;Depo Sarana Penggerak;NULL;-5.406.307;105.261.059;NULL;NULL
+67;7;Depo Kereta JakartaManggarai;2;Depo Sarana Tanpa Penggerak;NULL;-62.120.814;1.068.468.449;NULL;NULL
+68;26;Depo Gerbong Tarahan;2;Depo Sarana Tanpa Penggerak;NULL;-55.023.971;1.053.332.642;NULL;NULL
+69;10;Depo Lokomotif Tegal;2;Depo Sarana Penggerak;NULL;-6.860.814;1.091.417.459;NULL;NULL
+70;11;Depo Lokomotif Cilacap;2;Depo Sarana Penggerak;NULL;-77.385.776;1.090.048.829;NULL;NULL
+71;25;Balai Perawatan;1;Depo Sarana Penggerak;NULL;-71.434.945;1.108.975.915;NULL;NULL
+72;7;DEPO KRL MANGGARAI;3;Depo Sarana Penggerak;NULL;-6.212.741;106.850.457;NULL;NULL
+73;12;Depo Mekanik Purwosari;2;Depo Sarana Penggerak;NULL;-75.653.656;1.107.963.212;NULL;NULL
+74;27;Depo MRT Lebak Bulus;5;Depo Sarana Penggerak;NULL;-62.902.569;1.067.734.616;NULL;NULL
+76;27;Depo LRT KelapaGading;6;Depo Sarana Penggerak;NULL;-61.574.688;1.069.132.671;NULL;NULL
+77;18;Depo LRT Jakabaring;1;Depo Sarana Penggerak;NULL;-30.363.655;1.047.937.302;NULL;NULL
+78;27;Depo APMS Bandara Soetta;7;Depo Sarana Penggerak;NULL;-61.284.818;1.066.508.189;NULL;NULL
+79;7;Depo Mekanik Karawang;2;Depo Sarana Penggerak;NULL;-63.069.754;1.073.013.244;NULL;NULL
+80;11;Depo Mekanik Kroya;2;Depo Sarana Penggerak;NULL;-76.294.241;1.091.156.554;NULL;NULL
+81;13;Depo Mekanik Madiun;2;Depo Sarana Penggerak;NULL;-76.194.095;1.115.266.891;NULL;NULL
+82;9;Depo Gerbong Arjowinangun;2;Depo Sarana Tanpa Penggerak;NULL;-66.445.403;1.084.116.918;NULL;NULL
+83;12;Depo Gerbong Rowulu;2;Depo Sarana Tanpa Penggerak;NULL;-77.979.191;1.102.769.801;NULL;NULL
+84;17;Depo Gerbong BukitPutus;2;Depo Sarana Tanpa Penggerak;NULL;-0.9863189020156738;10.038.441.128.261.300;NULL;NULL
